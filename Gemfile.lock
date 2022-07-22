@@ -75,9 +75,6 @@ GEM
       autoprefixer-rails (>= 6.0.3)
       popper_js (>= 1.12.9, < 2)
       sass (>= 3.5.2)
-    bootstrap-sass (3.3.7)
-      autoprefixer-rails (>= 5.2.1)
-      sass (>= 3.3.4)
     builder (3.2.3)
     byebug (11.0.1)
     capybara (3.25.0)
@@ -294,7 +291,7 @@ GEM
     turbolinks (5.2.0)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
@@ -319,7 +316,6 @@ DEPENDENCIES
   activeadmin
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.1.1)
-  bootstrap-sass
   byebug
   capybara (>= 2.15)
   carrierwave
